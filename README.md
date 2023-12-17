@@ -1,1 +1,1 @@
-# question_paper
+# this is a question paper generator using python and mysql connectivity
